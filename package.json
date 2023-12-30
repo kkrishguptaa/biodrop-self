@@ -11,12 +11,12 @@
     "lint": "astro check"
   },
   "devDependencies": {
-    "@astrojs/tailwind": "5.0.4",
-    "@astrojs/vercel": "6.1.0",
-    "astro": "4.0.7",
+    "@astrojs/tailwind": "5.1.0",
+    "@astrojs/vercel": "6.1.1",
+    "astro": "4.0.8",
     "postcss": "8.4.32",
     "tailwindcss": "3.4.0",
-    "@types/node": "20.10.5",
+    "@types/node": "20.10.6",
     "dotenv": "16.3.1",
     "ncp": "2.0.0"
   }
