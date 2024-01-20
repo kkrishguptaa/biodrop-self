@@ -12,12 +12,12 @@
   },
   "devDependencies": {
     "@astrojs/tailwind": "5.1.0",
-    "@astrojs/vercel": "6.1.4",
-    "astro": "4.1.2",
+    "@astrojs/vercel": "7.0.0",
+    "astro": "4.2.1",
     "postcss": "8.4.33",
     "tailwindcss": "3.4.1",
-    "@types/node": "20.11.0",
-    "dotenv": "16.3.1",
+    "@types/node": "20.11.5",
+    "dotenv": "16.3.2",
     "ncp": "2.0.0"
   }
 }
