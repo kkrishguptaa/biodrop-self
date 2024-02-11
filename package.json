@@ -17,7 +17,7 @@
     "postcss": "8.4.35",
     "tailwindcss": "3.4.1",
     "@types/node": "20.11.17",
-    "dotenv": "16.4.1",
+    "dotenv": "16.4.2",
     "ncp": "2.0.0"
   }
 }
