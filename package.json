@@ -16,7 +16,7 @@
     "astro": "4.4.6",
     "postcss": "8.4.35",
     "tailwindcss": "3.4.1",
-    "@types/node": "20.11.21",
+    "@types/node": "20.11.22",
     "dotenv": "16.4.5",
     "ncp": "2.0.0"
   }
