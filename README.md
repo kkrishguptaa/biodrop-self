@@ -1,13 +1,11 @@
+> This repository has been archived in favor of BioDrop's new layouts feature. Refer to [EddieHubCommunity/BioDrop#7310](https://github.com/EddieHubCommunity/BioDrop/issues/7310)
+
 <div align="center">
   <img src="https://github.com/xkrishguptaa/biodrop-self/raw/main/assets/biodrop.png" height="100px" />
   <br />
   <h1>BioDrop-Self</h1>
   <p>Concept-Application built on top of the BioDrop API</p>
 </div>
-
-## 📦 Archive Notice
-
-This repository has been archived in favor of BioDrop's new layouts feature. Refer to [EddieHubCommunity/BioDrop#7310](https://github.com/EddieHubCommunity/BioDrop/issues/7310)
 
 ## 📸 Screenshots
 
